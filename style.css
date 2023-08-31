@@ -1,0 +1,256 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(img/cor\ roxa.avif);
+    background-size: 100%;
+}
+
+#main{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    margin-top: 5%;
+}
+
+#começo{
+    position: relative;
+    font-size: 40px;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#entrar{
+    position: relative;
+    height: 450px;
+    width: 350px;
+    background-color:darkmagenta; 
+    border: none;
+    border-radius: 15px;
+}
+
+
+.login{
+    position: relative;
+    top: 35px;
+    width: 200px;
+    color: white;
+    margin-left: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Login{
+    position: relative;
+    color: black;
+    border-radius: 5px;
+}
+
+#password{
+    position: relative;
+    color: black;
+    border-radius: 5px;
+}
+
+.Password{
+    position: relative;
+    top: 50px;
+    width: 200px;
+    color: white;
+    margin-left: 70px;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#submit{
+    top: 90px;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    border: none; 
+    font-family: mulish;
+    font-size: medium;
+    cursor: pointer;
+    background-color: white;
+    margin-left: 50px;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#EaS{
+    top: 140px;
+    display: flex;
+    position: relative;
+    margin-left: 110px;
+    text-decoration: none;
+    color:white;
+}
+
+#Cs{
+    top: 130px;
+    display: flex;
+    position: relative;
+    margin-left: 140px;
+    text-decoration: none;
+    color:white;
+}
+
+#segundapg{
+    justify-content: center;
+    display: flex;
+}
+
+#cadastro{
+    border-radius: 15px;
+    height: 930px;
+    width: 300px; 
+    background-color:darkmagenta; 
+    justify-content: center;
+    border: none;
+}
+
+#CD{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 90px;
+    position: relative;
+    font-size: x-large;
+    top: 5px;
+}
+.dp{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+.geral{
+    position: relative;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 80px;
+    border-radius: 5px;
+}
+
+#nome{
+    color: black;
+}
+
+#sobrenome{
+    color: black;
+}
+
+#nascimento{
+    color: black;
+}
+
+.options{
+    color: black;
+}
+
+#cep{
+    color: black;
+}
+
+#NC{
+    color: black;
+}
+
+#NT{
+    color: black;
+}
+
+#conhecimento{
+    color: black;
+}
+
+#MatriculA{
+    color: black;
+}
+
+#Nome{
+    color: black;
+}
+
+#email{
+    color: black;
+}
+
+#Enviar{
+    border-radius: 5px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    left: 20px;
+    position: relative;
+}
+
+
+
+#Limpar{
+    border-radius: 5px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    position: relative;
+    left: 50px;
+}
+
+#voltar{
+    text-decoration: none;
+    color:white;
+    position: relative;
+    left: 80px;
+}
+
+#terceirapg{
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+#RECS{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    position: relative;
+    left: 7px;
+}
+
+#recuperar{
+    background-color:darkmagenta; 
+    border-radius: 15px;
+    border: none;
+    position: relative;
+    width: 200px;
+    width: 280px;
+}
+
+.Matricula{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    left: 50px;
+    position: relative;
+    border-radius: 5px;
+}
+
+#recs{
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    position: relative;
+    left: 30px;
+    height: 30px;
+    width: 90px;
+}
+
+#btvoltar{
+    margin-top: 10px;
+    text-decoration: none;
+    color:white;
+    position: relative;
+    left: 100px;
+}
